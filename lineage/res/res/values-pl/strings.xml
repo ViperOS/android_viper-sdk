@@ -130,8 +130,6 @@
   <string name="lineage_updates">Aktualizacje ViperOS</string>
   <!-- About device screen, ViperOS version -->
   <string name="lineage_version">Wersja ViperOS</string>
-  <!-- About device screen, vendor security patch -->
-  <string name="lineage_vendor_security_patch">Poziom poprawek zabezpieczeń producenta</string>
   <!-- General purpose use "unknown" string -->
   <string name="unknown">Nieznane</string>
   <!-- Long-press back kill application -->
