@@ -94,7 +94,7 @@ public class TrustInterfaceService extends LineageSystemService {
 
         // Onboard
         if (!hasOnboardedUser()) {
-            postOnBoardingNotification();
+            //postOnBoardingNotification();
             registerLocaleChangedReceiver();
             return;
         }
